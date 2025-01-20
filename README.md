@@ -26,4 +26,8 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 ```console
 gaianet start
 ```
+<h>CHECK YOUR NODE ID & DEVICE ID</h>
 
+```console
+gaianet info
+```
