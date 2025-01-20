@@ -31,3 +31,6 @@ gaianet start
 ```console
 gaianet info
 ```
+
+<h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
+🪂Link: https://telegram.me/feature_earning
