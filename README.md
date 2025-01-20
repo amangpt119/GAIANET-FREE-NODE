@@ -9,3 +9,8 @@
 2) By using free terminals on Mobile [FREE]
 3) By using VPS 24X7 [ Investment ]
 
+<h1>copy & paste</h1>   
+```console
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
+```
+
